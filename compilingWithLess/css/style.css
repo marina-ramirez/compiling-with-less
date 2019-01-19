@@ -1,0 +1,49 @@
+.module1 {
+  height: 500px;
+  width: 500px;
+  background-color: #11994e;
+}
+nav {
+  font-family: "Adobe Garamond Pro", sans-serif;
+  color: yellow;
+  text-decoration: none;
+}
+home {
+  background-color: pink;
+}
+module1 box {
+  height: 300px;
+  width: 300px;
+  background-color: #c260ff;
+}
+header {
+  color: #3332e6;
+}
+* {
+  margin: 0;
+}
+html,
+body {
+  height: 100%;
+  background-color: #3332e6;
+}
+div {
+  height: 100px;
+  width: 600px;
+  background-color: rebeccapurple;
+}
+div p {
+  color: white;
+}
+.nav1 {
+  background-color: yellow;
+}
+nav a {
+  text-decoration: none;
+  color: #29b210;
+}
+p {
+  font-size: 24px;
+  color: yellow;
+}
+/*# sourceMappingURL=style.css.map */
