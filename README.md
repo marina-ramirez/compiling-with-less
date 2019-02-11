@@ -1,4 +1,11 @@
 # compiling-with-less
 ##some other header
 
-*Que* pasa?
+**Que** pasa?
+
+*Italics*
+
+>Blah
+```
+some command
+```
