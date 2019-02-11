@@ -9,4 +9,4 @@
 ```
 some command
 ```
-Click [Here] (https://github.com/FontAwesome/Font-Awesome)
+Click [Here](https://github.com/FontAwesome/Font-Awesome)
